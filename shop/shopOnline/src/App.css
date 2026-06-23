@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  scrollbar-gutter: stable;
+  overflow-y: scroll;
+
+  /* overflow: hidden; */
+  /* max-width: 1200px; */
+}
+::-webkit-scrollbar-thumb {
+  background: #d2c1b6;
+  border-radius: 10px;
+}
