@@ -29,7 +29,7 @@
      {
       "id": 3,
       "title": "White t-shirt",
-      "price": 199,
+      "price": 399,
       "description": "Biala koszulka",
       "category": "tshirt",
       "gender": "woman",
@@ -43,7 +43,7 @@
      {
       "id": 4,
       "title": "Black t-shirt sport",
-      "price": 199,
+      "price": 499,
       "description": "Czarna koszulka",
       "category": "tshirt",
       "gender": "man",
@@ -56,7 +56,7 @@
      {
       "id": 5,
       "title": "Vans buty",
-      "price": 199,
+      "price": 599,
       "description": "Buty vans czarne",
       "category": "shoes",
       "gender": "woman",
@@ -69,7 +69,7 @@
      {
       "id": 6,
       "title": "Adidas Superstar",
-      "price": 199,
+      "price": 679,
       "description": "Buty adidas superstar",
       "category": "shoes",
       "gender": "man",
@@ -82,7 +82,7 @@
      {
       "id": 7,
       "title": "Adidas yeezy",
-      "price": 199,
+      "price": 999,
       "description": "Buty adidas yeezy",
       "category": "shoes",
       "gender": "man",
@@ -96,7 +96,7 @@
      {
       "id": 8,
       "title": "Adidas yeezy",
-      "price": 199,
+      "price": 119,
       "description": "Buty adidas yeezy",
       "category": "shoes",
       "gender": "woman",
@@ -108,7 +108,7 @@
      {
       "id": 9,
       "title": "Black tshirt",
-      "price": 199,
+      "price": 129,
       "description": "koszulka czarna krotka",
       "category": "tshirt",
       "gender": "woman",
@@ -121,7 +121,7 @@
      {
       "id": 10,
       "title": "Buty nike mercurial",
-      "price": 199,
+      "price": 229,
       "description": "buty nike mercurial",
       "category": "shoes",
       "gender": "man",
@@ -134,7 +134,7 @@
      {
       "id": 11,
       "title": "Adidas buty",
-      "price": 199,
+      "price": 339,
       "description": "Buty adidas korki",
       "category": "shoes",
       "gender": "man",
@@ -147,7 +147,7 @@
      {
       "id": 12,
       "title": "Korki nike mercurial",
-      "price": 199,
+      "price": 449,
       "description": "Buty nike korki",
       "category": "shoes",
       "gender": "man",
@@ -161,7 +161,7 @@
      {
       "id": 13,
       "title": "Buty nike marathons",
-      "price": 199,
+      "price": 559,
       "description": "Buty do biegania nike ",
       "category": "shoes",
       "gender": "man",
@@ -174,7 +174,7 @@
      {
       "id": 14,
       "title": "Nike buty do biegania",
-      "price": 199,
+      "price": 699,
       "description": "Buty nike",
       "category": "shoes",
       "gender": "woman",
@@ -187,7 +187,7 @@
      {
       "id": 15,
       "title": "Buty nike janoski ",
-      "price": 199,
+      "price": 779,
       "description": "Bluza nike",
       "category": "shoes",
       "gender": "woman",
@@ -200,7 +200,7 @@
      {
       "id": 16,
       "title": "Spodnie jeansowe",
-      "price": 199,
+      "price": 119,
       "description": "Jeansy ",
       "category": "jeans",
       "gender": "woman",
@@ -213,7 +213,7 @@
      {
       "id": 17,
       "title": "Czarne spodnie jeansowe",
-      "price": 199,
+      "price": 179,
       "description": "Czarne jeansy",
       "category": "jeans",
       "gender": "man",
@@ -226,7 +226,7 @@
      {
       "id": 18,
       "title": "Biala koszulka",
-      "price": 199,
+      "price": 229,
       "description": "Biala koszulka",
       "category": "tshirt",
       "gender": "woman",
