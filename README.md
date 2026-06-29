@@ -4,7 +4,7 @@ A full-stack e-commerce web application built with React (Vite) frontend and Nod
 The project simulates a real online clothing shop with product browsing, filtering, cart system and checkout flow.
 
 
-🚀 Live Demo
+🚀 Live Demo (wait 20 sec to see products)
 
 https://xdqwe-c7cv.vercel.app/
 
